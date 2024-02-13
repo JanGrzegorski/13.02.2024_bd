@@ -1,0 +1,36 @@
+html,body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.all{
+    width: 600px;
+    height: auto;
+    border: 2px solid blue;
+    border-radius: 25px;
+    margin: auto;
+    padding: 20px;
+    
+}
+.osoby10_18{
+    width: 600px;
+    height: auto;
+    border: 2px solid red;
+    border-radius: 25px;
+    margin: auto;
+    padding: 20px;
+   
+}
+.osoby19_50{
+    width: 600px;
+    height: auto;
+    border: 2px solid green;
+    border-radius: 25px;
+    margin: auto;
+    padding: 20px;
+   
+}
+.counter{
+text-align: center;
+color: hotpink;
+}
